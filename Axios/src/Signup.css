@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#d1{
+    padding-top: 40px;
+    padding-right: 70px;
+    /* background-color: red; */
+}
+#d2{
+    height: 100Vh;
+    width: 100%;
+   
+    /* background-color: red; */
+    background-image: url(Photos/shopping1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100vh;
+    
+
+
+}
+
+#form1{
+    background-color: wheat;
+     padding: 40px 50px;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 350px;
+    backdrop-filter: blur(8px);
+    height: 580px;
+    transform: matrix(1);
+}
+.in1{
+    height: 30px;
+    width: 100%;
+    border: 2px solid  #d1d5db;
+    border-radius: 10px;
+    transition: 0.3s ease;
+    padding: 10px;
+    font-size: 15px;
+}
+.in1:focus{
+    border-color: #6366f1;
+    outline: none;
+}
+.lb1{
+     padding-right: 170px;
+     font-weight: 500;
+    font-size: 18px;
+}
+#name2{
+    padding-right: 325px;
+    font-weight: 500;
+    font-size: 18px;
+}
+#cp1{
+    padding-right: 100px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+#sgin{
+     width: 105%;
+    background-color:#4f46e5;
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+    transition: 0.3s ease;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    border: none;
+}
+
+/* ------------------------------------------------------------ */
+
