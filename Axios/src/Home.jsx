@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link,Outlet} from 'react-router-dom'
 import "./App.css"
-import pic from "./Photos/Shopping1.jpg"
+//import pic from "./Photos/Shopping1.jpg"
 import Home1 from './Home1'
 
 const Home = () => {
