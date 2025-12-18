@@ -7,7 +7,7 @@ import Data from './Data'
 import LoginData from './LoginData'
 import Shopping from './Shopping'
 import Editdetails from './Editdetails'
-import Cart from './cart'
+import Cart from './Cart'
 import Home1 from './Home1'
 
 
