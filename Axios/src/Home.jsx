@@ -13,7 +13,7 @@ const Home = () => {
       
       <div id='homed1'>
         
-         <Link id='home' to="/vid" >Home Page</Link>
+         <Link to="/" >Home Page</Link>
          <Link to="/signup">Signup Page</Link>
          <Link to="/login">Login Page</Link>
          <Link to="/shoppy">Shopping Page</Link>
